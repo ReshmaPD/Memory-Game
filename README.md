@@ -26,7 +26,7 @@ Download the folder contents and open the index.html file
 
 ## Resources
 
-[FontAwesome](https://fontawesome.com/)
+[FontAwesome](https://fontawesome.com/) /n
 [CssAnimate](https://daneden.github.io/animate.css/)
 
 ## Technologies
@@ -38,11 +38,11 @@ Visual Studio Code Editor used
 
 ## Game-Functionalities
 
-1]Captures the number of moves required to match all the cards.
-2]Captures the time required to complete the game in minutes and seconds.
-3]Once the game is completed, displays star rating on the basis of time and moves made by the player with a Modal message.
-4]In the modal message player can choose to play the game again or close it.
-5]Player can restart the game at any time using the reload icon on the screen.
+1]Captures the number of moves required to match all the cards./n
+2]Captures the time required to complete the game in minutes and seconds./n
+3]Once the game is completed, displays star rating on the basis of time and moves made by the player with a Modal message./n
+4]In the modal message player can choose to play the game again or close it./n
+5]Player can restart the game at any time using the reload icon on the screen./n
 
 ## Game-dependencies
 
