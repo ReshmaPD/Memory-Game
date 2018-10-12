@@ -5,7 +5,7 @@
 * [How to play](#how-to-play)
 * [Resources](#resources)
 * [Technologies](#technologies)
-* [Game Functionalities](#game-Functionalities)
+* [Game Functionalities](#game-functionalities)
 * [Game dependencies](#game-dependencies)
 * [Contributing](#contributing)
 
