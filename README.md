@@ -36,7 +36,7 @@ Download the folder contents and open the index.html file
 * Javascript
 * HTML
 * CSS
-* Visual Studio Code Editor used
+* Visual Studio Code Editor 
 
 ## Game-Functionalities
 
