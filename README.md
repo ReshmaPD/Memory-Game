@@ -1,6 +1,6 @@
 # Memory Game Project
 
-[Live Website](https://reshma-memory-game.netlify.com){:target="_blank" rel="noopener"}
+[Live Website](https://reshma-memory-game.netlify.com){target="_blank" rel="noopener"}
 
 ## Table of Contents
 
