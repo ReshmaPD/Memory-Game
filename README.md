@@ -1,13 +1,20 @@
 # Memory Game Project
 
+[Live Website](https://reshma-memory-game.netlify.com)
+
 ## Table of Contents
 
+* [About](#about)
 * [How to play](#how-to-play)
 * [Resources](#resources)
 * [Technologies](#technologies)
 * [Game Functionalities](#game-functionalities)
 * [Game dependencies](#game-dependencies)
 * [Contributing](#contributing)
+
+## About
+
+The memory game presents the first opportunity to fully combine my skills in HTML, CSS, and JavaScript DOM manipulation to build a complete browser-based card matching game (also known as Concentration).
 
 ## How to play
 
