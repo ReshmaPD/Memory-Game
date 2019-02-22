@@ -2,6 +2,8 @@
 
 [Live Website](https://reshma-memory-game.netlify.com)
 
+**[Starter Code](https://github.com/udacity/fend-project-memory-game) The starter code has some HTML and CSS styling to display a static version of the Memory Game project. Goal was to convert this project from a static project to an interactive one primarily using JavaScript.**
+
 ## Table of Contents
 
 * [About](#about)
